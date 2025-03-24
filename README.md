@@ -1,4 +1,9 @@
 ## Hi there 👋
+## My name is Mihai Barbarii and I am a Medical Doctor looking to expand my horizons.
+## I am currently learning Python, Data Science, Machine Learning, Bioinformatics and AI.
+## I am looking to collaborate on projects related to different areas of medical research, systems medicine but also algorithmic trading.
+## I am looking for help to learn more about the topics descrieved above.
+## How to reach me: barbariimihai@gmail.com
 
 <!--
 **Mihai-Brbrii/Mihai-Brbrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
